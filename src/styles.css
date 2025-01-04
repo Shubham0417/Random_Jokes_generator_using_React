@@ -1,0 +1,29 @@
+.btn-primary:hover {
+  background-color: slategray;
+}
+
+.head {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 30rem;
+  height: auto;
+  padding: 2rem;
+  background-color: steelblue;
+  border-radius: 13px;
+  margin: 10rem auto;
+  color: white;
+}
+
+.btn {
+  background-color: aliceblue;
+  color: black;
+  border-radius: 12px;
+  padding: 15px;
+  font-size: larger;
+}
